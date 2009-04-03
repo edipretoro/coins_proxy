@@ -1,2 +1,7 @@
-.h1 COinS Proxy
+h1. COinS Proxy
+
+h2. Introduction
+
+More information later...
+
 
